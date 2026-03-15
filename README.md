@@ -10,14 +10,14 @@
 
 💬 **Ask me about:** Econometrics and economic data analysis, Python for data analytics and machine learning, and Advanced Excel / Power BI for business intelligence dashboards.
 
----
+
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshi-sb1729)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saptarshi.ban54@gmail.com)
 
----
+
 
 ## 💻 Tech Stack
 
@@ -54,7 +54,7 @@
 ### Cloud
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -64,13 +64,13 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-ux&theme=default&hide_border=false&layout=compact)
 
----
+
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Saptarshi-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
 
 ## GitHub Activity Graph
 
