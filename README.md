@@ -1,32 +1,25 @@
+Economist turned Data Scientist | Python, Machine Learning, Econometrics | Data-driven analytics and visualization
 # About Me
 
-🔭 **I’m currently working on**
-- Data analytics and economic modeling projects using **Python, SQL, and Power BI**
-- Building **interactive data applications with Streamlit** for analytics and visualization
-- Applying **econometric and machine learning techniques** to real-world datasets
+🔭 **Currently Working On**
+- Python-based **data analytics, econometric modeling, and machine learning**
+- Building **interactive data applications with Streamlit**
 
-👯 **I’m looking to collaborate on**
-- **Economic data analysis and policy research projects**
-- **Business intelligence dashboards** using Advanced Excel or Power BI
-- **Open-source Python tools** for data visualization, analytics, and machine learning applications
+👯 **Open to Collaborate On**
+- **Economic data analysis and policy research**
+- **Open-source Python projects** for analytics, ML, and visualization
 
-🤝 **I’m looking for help with**
-- Designing **production-ready data pipelines and ETL workflows**
-- Advanced **time-series forecasting and econometric modeling**
-- Deploying **data and AI applications on cloud platforms**
-
-🌱 **I’m currently learning**
-- **Advanced machine learning and predictive modeling**
+🌱 **Currently Learning**
+- **Advanced machine learning and time-series forecasting**
 - **Data engineering and scalable analytics workflows**
-- Deployment of **AI and Generative AI applications** using modern cloud tools
 
-💬 **Ask me about**
-- **Econometrics and economic data analysis**
-- **Python for data analytics, machine learning, and visualization**
-- **Advanced Excel, Power BI dashboards, and business intelligence**
+💬 **Ask Me About**
+- Econometrics & economic data analysis  
+- Python for **data science and visualization**  
+- **Excel and Power BI dashboards**
 
-⚡ **Fun fact**
-- I enjoy turning **complex datasets into simple insights and visual stories through analytics and dashboards.**
+⚡ **Fun Fact**
+- I enjoy transforming **complex datasets into clear insights and visual stories.**
 
 ---
 
