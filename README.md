@@ -52,24 +52,16 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Saptarshi-ux&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Saptarshi-ux&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Saptarshi-ux&theme=default&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Saptarshi-ux&theme=default&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-ux&theme=default&hide_border=false&layout=compact)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-ux&theme=default&hide_border=true&layout=compact&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Saptarshi-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+![](https://github-profile-trophy.vercel.app/?username=Saptarshi-ux&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi-ux&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Saptarshi-ux&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi-ux&theme=github&area=true" height="300" />
