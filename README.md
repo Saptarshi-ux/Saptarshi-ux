@@ -52,11 +52,7 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Saptarshi-ux&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Saptarshi-ux&theme=default&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-ux&theme=default&hide_border=true&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=Saptarshi-ux&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Saptarshi-ux&theme=default&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-ux&theme=default&hide_border=false&layout=compact)
 
 ### 🏆 GitHub Trophies
 
