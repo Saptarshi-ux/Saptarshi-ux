@@ -58,9 +58,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Saptarshi-ux&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi-ux&theme=github&area=true" height="300" />
 
 ### GitHub Activity Graph for last 30 days
 
