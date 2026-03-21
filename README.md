@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saptarshi.ban54@gmail.com)
 
 
-
 ### 💻 Tech Stack
 
 #### Programming & Data Science
@@ -48,16 +47,9 @@
 #### Cloud
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-
-
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Saptarshi-ux&theme=default&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Saptarshi-ux&theme=default&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-ux&theme=default&hide_border=false&layout=compact)
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Saptarshi-ux&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 
 ### GitHub Activity Graph for last 30 days
 
