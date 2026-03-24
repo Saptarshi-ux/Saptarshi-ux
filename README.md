@@ -56,4 +56,4 @@
 
 ### GitHub Activity Graph for last 30 days
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi-ux&theme=github&area=true" height="300" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi-ux&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" height="200" />
