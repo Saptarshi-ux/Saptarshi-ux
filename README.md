@@ -1,6 +1,6 @@
-## About Me
+# About Me
 
-🔭 **I’m currently working on:** I'm currently working on data analytics and economic modeling using **Python**, **SQL**, and **Power BI**, building interactive applications with **Streamlit**, and applying econometric and machine learning techniques to real-world datasets.
+**I’m currently working on:** I'm currently working on data analytics and economic modeling using **Python**, **SQL**, and **Power BI**, building interactive applications with **Streamlit**, and applying econometric and machine learning techniques to real-world datasets.
 👯 **I’m looking to collaborate on:** Economic data analysis and policy research, BI dashboards (Excel/Power BI), open-source Python analytics tools, and AI/ML-driven data science projects.
 🤝 **I’m looking for help with:** Building production-ready data pipelines, advanced time-series and econometric modeling, and deploying scalable data & AI applications on cloud platforms.
 🌱 **I’m currently learning:** Advanced machine learning, data engineering for scalable analytics, and cloud deployment of AI & Generative AI applications.
